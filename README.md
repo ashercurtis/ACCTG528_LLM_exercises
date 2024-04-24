@@ -1,2 +1,2 @@
 # ACCTG528_LLM_exercises
-Support for in class exercises with chat GGPT / LLMs.
+Files for UW MPAcc ACCTG 528 in class exercises with chat GGPT / LLMs.
